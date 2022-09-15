@@ -2,7 +2,7 @@ import Link from "next/link";
 import Layout from "../components/Layout";
 
 const IndexPage = () => (
-  <Layout title="Coming Soon - Clean Coming Soon Page (Tailwind CSS, NextJs & HTML5) created by themeptation.net">
+  <Layout title="Coming Soon - systemd.run">
     <img
       src="/images/xera.svg"
       alt="systemd"
